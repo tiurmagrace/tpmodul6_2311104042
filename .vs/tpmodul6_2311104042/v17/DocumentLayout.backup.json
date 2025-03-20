@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D95ECE72-C661-4B69-9037-3B806E63A1D6}|tpmodul6_2311104042\\tpmodul6_2311104042.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\06_design_by_contract_dan_defensive_programming\\tpmodul6_2311104042\\tpmodul6_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ECE72-C661-4B69-9037-3B806E63A1D6}|tpmodul6_2311104042\\tpmodul6_2311104042.csproj|solutionrelative:tpmodul6_2311104042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ECE72-C661-4B69-9037-3B806E63A1D6}|tpmodul6_2311104042\\tpmodul6_2311104042.csproj|c:\\users\\user\\source\\repos\\kpl_tiurmagracea_2311104042_s1se-07-02\\06_design_by_contract_dan_defensive_programming\\tpmodul6_2311104042\\tpmodul6_2311104042\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ECE72-C661-4B69-9037-3B806E63A1D6}|tpmodul6_2311104042\\tpmodul6_2311104042.csproj|solutionrelative:tpmodul6_2311104042\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104042\\tpmodul6_2311104042\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "tpmodul6_2311104042\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104042\\tpmodul6_2311104042\\SayaTubeVideo.cs",
+              "RelativeToolTip": "tpmodul6_2311104042\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:15:22.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "tpmodul6_2311104042\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\KPL_TiurmaGraceA_2311104042_S1SE-07-02\\06_Design_by_Contract_dan_Defensive_Programming\\tpmodul6_2311104042\\tpmodul6_2311104042\\Program.cs",
               "RelativeToolTip": "tpmodul6_2311104042\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T15:05:07.73Z",
               "EditorCaption": ""
